@@ -386,6 +386,5 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 /* ToDo
-1. Победить размножение listener'ов, проверить необходимость suicide
-2. Увеличить шрифт меню
+1. Увеличить шрифт меню
 */

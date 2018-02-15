@@ -186,7 +186,6 @@ public class QuasiExcelSheet {
                     null, lpULC.topMargin,null, lpULC.bottomMargin);
             tr.getChildAt(j).setTag("B0:" + j );
         }
-
         // First column
         // View -> TableRow -> TableLayout -> ScrollView -> root RelativeLayout ->
         svC = new MyScrollView(context);
@@ -223,7 +222,6 @@ public class QuasiExcelSheet {
 
             tlC.addView(tr);
         }
-
         // Body - cells to the right and below A1
         // TableRow -> TableLayout -> HorisontalScrollView -> ScrollView -> root RelativeLayout
         svD = new MyScrollView(context);
@@ -447,7 +445,6 @@ public class QuasiExcelSheet {
                     return;
                 }
             }
-
             if (!autoFit) { // restore height and margins of the cell OldFocus
                 oldFocus.setLayoutParams(cellOldLayoutParams);
             } else {  // Setting row height == height of every cell
@@ -586,3 +583,6 @@ public class QuasiExcelSheet {
         return ++viewId;
     };
 }
+/* ToDo
+1. Победить размножение listener'ов, проверить необходимость suicide
+*/
