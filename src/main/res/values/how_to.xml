@@ -1,0 +1,8 @@
+<resources>
+    <string name="how_to">
+<![CDATA[
+<b>How to ...</b><br/><br/>
+<font color=#0000ff>...delete row</font>? To clear the first cell of the row.<br/>
+]]>
+    </string>
+</resources>

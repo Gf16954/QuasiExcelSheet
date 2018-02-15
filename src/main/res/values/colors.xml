@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorHelpBackground">#E0E0E0</color>
+    <color name="colorBorder">#A0A0A0</color>
+    <color name="colorUpperLeftCell">#C0C0C0</color>
+    <color name="colorRow1">#E0E000</color>
+    <color name="colorRow2">#F0F000</color>
+    <color name="colorEdit">#FFFFFF</color>
+    <color name="colorHeader">#FFFF00</color>
+    <color name="colorFirstColumn">#00FFFF</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>

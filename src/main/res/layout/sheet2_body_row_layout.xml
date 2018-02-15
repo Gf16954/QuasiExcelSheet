@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+<!-- Monday -->
+    <CheckBox
+        android:gravity="center"
+        android:background="@color/colorRow1"
+        />
+<!-- Tuesday -->
+    <CheckBox
+        android:gravity="center"
+        android:background="@color/colorRow1"
+        />
+<!--  Wensday -->
+    <CheckBox
+        android:gravity="center"
+        android:background="@color/colorRow1"
+        />
+<!-- Thurday -->
+    <CheckBox
+        android:gravity="center"
+        android:background="@color/colorRow1"
+        />
+<!-- Friday -->
+    <CheckBox
+        android:gravity="center"
+        android:background="@color/colorRow1"
+        />
+<!-- Satterday -->
+    <CheckBox
+        android:gravity="center"
+        android:background="@color/colorRow1"
+        />
+<!-- Sunday -->
+    <CheckBox
+        android:gravity="center"
+        android:background="@color/colorRow1"
+        />
+</TableRow>

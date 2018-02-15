@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <TextView
+        android:layout_width="90sp"
+        android:gravity="center"
+        android:background="@color/colorHeader"
+        android:layout_marginLeft="@dimen/borderWidth"
+        android:textSize="@dimen/textSizeHeaders"
+        android:text="One" />
+
+    <TextView
+        android:layout_width="70sp"
+        android:layout_marginLeft="@dimen/borderWidth"
+        android:background="@color/colorHeader"
+        android:gravity="center"
+        android:text="Two"
+        android:textSize="@dimen/textSizeHeaders" />
+
+    <TextView
+        android:layout_width="70sp"
+        android:gravity="center"
+        android:background="@color/colorHeader"
+        android:layout_marginLeft="@dimen/borderWidth"
+        android:textSize="@dimen/textSizeHeaders"
+        android:text="Three" />
+    <TextView
+        android:layout_width="75sp"
+        android:gravity="center"
+        android:background="@color/colorHeader"
+        android:layout_marginLeft="@dimen/borderWidth"
+        android:textSize="@dimen/textSizeHeaders2"
+        android:text="Four" />
+    <TextView
+        android:layout_width="70sp"
+        android:gravity="center"
+        android:background="@color/colorHeader"
+        android:layout_marginLeft="@dimen/borderWidth"
+        android:textSize="@dimen/textSizeHeaders2"
+        android:text="Five" />
+    <TextView
+        android:layout_width="90sp"
+        android:gravity="center"
+        android:background="@color/colorHeader"
+        android:layout_marginLeft="@dimen/borderWidth"
+        android:textSize="@dimen/textSizeHeaders2"
+        android:text="Six" />
+    <TextView
+        android:layout_width="90sp"
+        android:gravity="center"
+        android:background="@color/colorHeader"
+        android:layout_marginLeft="@dimen/borderWidth"
+        android:textSize="@dimen/textSizeHeaders"
+        android:text="Seven" />
+</TableRow>

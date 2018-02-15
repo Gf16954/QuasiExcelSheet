@@ -1,0 +1,8 @@
+<resources>
+    <string name="sheet2_description">
+<![CDATA[
+<b>Sheet #2 description</b><br/><br/>
+It\'s <font color=#00ff00>important</font> sheet too.<br/>
+]]>
+    </string>
+</resources>

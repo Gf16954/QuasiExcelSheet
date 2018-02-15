@@ -1,0 +1,8 @@
+<resources>
+    <string name="about_the_program">
+<![CDATA[
+<b>About the program</b><br/><br/>
+It\'s the demo application for <font color=#0000ff>QuasiExcelSheet</font> class.<br/>
+]]>
+    </string>
+</resources>

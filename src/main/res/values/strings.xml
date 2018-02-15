@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QuasiExcelSheet demo program</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="sheet_name1">Sheet #1</string>
+    <string name="sheet_name2">Sheet #2</string>
+    <string name="sheet_name3">Sheet #3</string>
+    <string name="sheet_name4">Sheet #4</string>
+    <string name="action_current_sheet_description">Current page description</string>
+    <string name="action_about_the_program">About the program</string>
+    <string name="action_how_to">How to ...</string>
+
+</resources>

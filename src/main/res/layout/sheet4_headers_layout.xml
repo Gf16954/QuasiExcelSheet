@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <TextView
+        android:layout_width="400sp"
+        android:gravity="center"
+        android:background="@color/colorHeader"
+        android:layout_marginLeft="@dimen/borderWidth"
+        android:textSize="@dimen/textSizeHeaders"
+        android:text="Story"
+        />
+</TableRow>

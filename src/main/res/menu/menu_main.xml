@@ -1,0 +1,40 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.gf169.mdpm.MainActivity">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/action_sheet1"
+            android:title="@string/sheet_name1"
+            />
+        <item
+            android:id="@+id/action_sheet2"
+            android:title="@string/sheet_name2"
+            />
+        <item
+            android:id="@+id/action_sheet3"
+            android:title="@string/sheet_name3"
+            />
+        <item
+            android:id="@+id/action_sheet4"
+            android:title="@string/sheet_name4"
+            />
+    </group>
+
+    <item
+        android:id="@+id/action_current_sheet_description"
+        android:title="@string/action_current_sheet_description"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_about_the_program"
+        android:title="@string/action_about_the_program"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_how_to"
+        android:title="@string/action_how_to"
+        app:showAsAction="never" />
+
+</menu>

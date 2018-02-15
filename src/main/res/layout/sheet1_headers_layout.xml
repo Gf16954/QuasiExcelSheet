@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <TextView
+        android:layout_width="60sp"
+        android:gravity="center"
+        android:background="@color/colorHeader"
+        android:layout_marginLeft="@dimen/borderWidth"
+        android:textSize="@dimen/textSizeHeaders"
+        android:text="Column #2" />
+    <TextView
+        android:layout_width="60sp"
+        android:gravity="center_vertical"
+        android:background="@color/colorHeader"
+        android:layout_marginLeft="@dimen/borderWidth"
+        android:textSize="@dimen/textSizeHeaders"
+        android:text="Column #3" />
+    <TextView
+        android:layout_width="90sp"
+        android:gravity="center"
+        android:background="@color/colorHeader"
+        android:layout_marginLeft="@dimen/borderWidth"
+        android:textSize="@dimen/textSizeHeaders"
+        android:text="Column #4" />
+    <TextView
+        android:layout_width="90sp"
+        android:gravity="center"
+        android:background="@color/colorHeader"
+        android:layout_marginLeft="@dimen/borderWidth"
+        android:textSize="@dimen/textSizeHeaders"
+        android:text="Column #5" />
+    <TextView
+        android:layout_width="90sp"
+        android:gravity="center"
+        android:background="@color/colorHeader"
+        android:layout_marginLeft="@dimen/borderWidth"
+        android:textSize="@dimen/textSizeHeaders"
+        android:text="Column #6" />
+    <TextView
+        android:layout_width="80sp"
+        android:gravity="center"
+        android:background="@color/colorHeader"
+        android:layout_marginLeft="@dimen/borderWidth"
+        android:textSize="@dimen/textSizeHeaders"
+        android:text="Column #7" />
+    <TextView
+        android:layout_width="115sp"
+        android:gravity="center"
+        android:background="@color/colorHeader"
+        android:layout_marginLeft="@dimen/borderWidth"
+        android:textSize="@dimen/textSizeHeaders"
+        android:text="Column #8" />
+    <TextView
+        android:layout_width="90sp"
+        android:gravity="center"
+        android:background="@color/colorHeader"
+        android:layout_marginLeft="@dimen/borderWidth"
+        android:textSize="@dimen/textSizeHeaders"
+        android:text="Column #9" />
+    <TextView
+        android:layout_width="90sp"
+        android:gravity="center"
+        android:background="@color/colorHeader"
+        android:layout_marginLeft="@dimen/borderWidth"
+        android:textSize="@dimen/textSizeHeaders"
+        android:text="Column #10" />
+</TableRow>
